@@ -1,7 +1,11 @@
 # Symmetrigaea.py
 
-A Civilization IV: Beyond the Sword mapscript based on GeometricMultiFractal.py. It generates a roughly symmetrical continent with or without a small inland sea.
+A Civilization IV: Beyond the Sword mapscript based on [GeometricMultiFractal.py](https://github.com/AineiasStymphalios/GeometricMultiFractal). 
+It generates a roughly symmetrical continent with or without a small inland sea.
+
 Intended for multiplayer games. Has special balancing features for team-based games.
+
+[Latest Download](https://github.com/AineiasStymphalios/Symmetrigaea.py/releases)
 
 ![Inland sea example](smg_inland.png)
 ![Land bridge example](Smg_land.png)
@@ -56,4 +60,4 @@ Civilization IV: Beyond the Sword.
 
 # Extra: Symmetrigaea Simulator
 Python script which simulates Symmetrigaea's plot generation.
-See included readme.
+See included [readme](https://github.com/AineiasStymphalios/Symmetrigaea/tree/main/Symmetrigaea_Simulator).
